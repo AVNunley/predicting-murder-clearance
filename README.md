@@ -18,7 +18,7 @@ Can machine learning be used to predict the probability that a murder case will 
 
 
 ## Project Status
-Project is: _in progress_
+_in progress_
 
 ## Future
 
