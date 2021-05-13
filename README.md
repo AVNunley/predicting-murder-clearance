@@ -27,6 +27,7 @@ To do:
 - Generate charts for comparisons of hypertuning parameters
 - Analysis of final model inference on final year of data
 - Jupyter Notebooks formatted for presentation
+- Add to report and remove some sections
 
 
 Room for improvement:
