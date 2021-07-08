@@ -16,21 +16,9 @@ Can machine learning be used to predict the probability that a murder case will 
 - Seaborn
 - SciKit-Learn
 
-
-## Project Status
-_in progress_
-
 ## Future
 
-To do:
-- More statistical EDA
-- Generate charts for comparisons of hypertuning parameters
 - Analysis of final model inference on final year of data
-- Jupyter Notebooks formatted for presentation
-- Add to report and remove some sections
-
-
-Room for improvement:
 - More complete US murder data
 - Training data on a neural network and upgrading model if there is a meaningful performance improvement
 
