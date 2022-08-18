@@ -4,7 +4,6 @@ Can machine learning be used to predict the probability that a murder case will 
 
 ## Table of Contents
 * [Libraries Used](#libraries-used)
-* [Project Status](#project-status)
 * [Future](#future)
 * [Contact](#contact)
 
